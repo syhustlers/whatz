@@ -45,7 +45,7 @@ BOT_TOKEN = "8742741857:AAEIh6zBnzPt2ezSWrU8tztk85VLGPlwtbQ"
 
 def load_scraper_keys() -> list[str]:
     return [
-        "7d566c800ca55799d6ec085d8e7c4ff2",
+        "a00a4db27ba0eb9edb0db59114180bfe",
         "710e8884bfe8116a3618b67640fc09a8",
         "4b0a93603cff3838c0830d32b47005a2",
         "233b5663191b1ee77e5fbcb920d468d8",
