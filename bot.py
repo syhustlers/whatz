@@ -41,7 +41,7 @@ from telegram.ext import (
 # Configuration (New Token & Hardcoded ScraperAPI Pool)
 # --------------------------------------------------------------------------- #
 
-BOT_TOKEN = "8742741857:AAEIh6zBnzPt2ezSWrU8tztk85VLGPlwtbQ"
+BOT_TOKEN = "8742741857:AAHse9R4a_Jr0-dOn4ctxGdi1_VSCERGw-8"
 
 def load_scraper_keys() -> list[str]:
     return [
